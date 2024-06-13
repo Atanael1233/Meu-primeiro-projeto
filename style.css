@@ -38,8 +38,13 @@ body * {
   text-align: center;
   padding: 24px;
 }
+
+/* foto perfil- light */
+
 #profile img {
-  width: 112px;
+  width: 115px;
+  height: 115px;
+  border-radius: 50%;
 }
 #profile p {
   font-weight: 500;
